@@ -1,15 +1,11 @@
-# Words App
+# Words App 📃
 
-This folder contains the source code for the Words app codelab.
+App criado para praticar o uso de intent explicita e implicita e mudança de layout manager na activity. Mostrando uma lista de letras e uma lista de palavras de acordo com a letra selecionada e por último, destinando o usuário a uma pesquisa no Google sobre o significado daquela palavra. 
 
+<p align="start">
+<img align="start" width="270" height="590" src="https://cdn.discordapp.com/attachments/558087898705166346/947939314044633188/Screenshot_20220228-163411_Words.jpg">
+<img align="start" width="270" height="590" src="https://cdn.discordapp.com/attachments/558087898705166346/947939314300489798/Screenshot_20220228-163414_Words.jpg">
+<img align="start" width="270" height="590" src="https://cdn.discordapp.com/attachments/558087898705166346/947939314501832755/Screenshot_20220228-163417_Words.jpg">
+<br />
+</p>
 
-# Introduction
-Words app allows you to select a letter and use Intents to navigate to an Activity that
-presents a number of words starting with that letter. Each word can be looked up via a web search.
-
-Words app contains a scrollable list of 26 letters A to Z in a RecyclerView. The orientation
-of the RecyclerView can be changed between a vertical list or a grid of items.
-
-The app demonstrates the use of Intents in two ways:
-* to navigate inside an app by specifying an explicit destination, and,
-* allowing Android to service the Intent using the apps and resources present on the device.
